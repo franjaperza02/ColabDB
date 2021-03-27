@@ -1,7 +1,7 @@
 <?php
 
 //Api.php
-
+class Api
 {
 	private $connect = '';
 
